@@ -1,2 +1,2 @@
 # maze_solver
-Artificial Intelligence I course mid-quarter project
+Artificial Intelligence I course mid-quarter project - fall 2020
